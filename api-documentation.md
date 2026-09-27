@@ -1,8 +1,7 @@
 # 🌐 MediSafe REST API Documentation
 
-**HackInMotion 2026 — Team RICR-HIM-1114**  
-**Theme:** Healthcare &amp; HealthTech  
-**Project:** MediSafe — Smart Medicine Safety &amp; Drug Interaction Assistant  
+**Theme:** Healthcare & HealthTech  
+**Project:** MediSafe — Smart Medicine Safety & Drug Interaction Assistant  
 
 ---
 
